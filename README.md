@@ -58,6 +58,6 @@ CALL sp_relatorio_consultas_periodo('2023-06-10', '2023-06-15');
 -- Exemplo de view
 SELECT * FROM vw_agenda_medica WHERE medico = 'Dr. Carlos Silva';
 
-## 👨💻 Desenvolvido por  
-**Kauan Silva**  
-📩 Contato: [Meu AllLinks](https://biolink.website/socialKauanSilva)
+
+
+📩 Contato: https://biolink.website/socialKauanSilva
